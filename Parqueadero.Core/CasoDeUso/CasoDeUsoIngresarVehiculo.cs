@@ -4,7 +4,7 @@ using Parqueadero.Core.Repositorio;
 
 namespace Parqueadero.Core.CasoDeUso
 {
-    class CasoDeUsoIngresarVehiculo
+    public class CasoDeUsoIngresarVehiculo
     {
         private RepositorioHistorial repositorioHistorial;
         private ReglaIngresarVehiculo reglaIngresarVehiculo;

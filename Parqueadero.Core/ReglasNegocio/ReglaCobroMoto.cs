@@ -1,7 +1,5 @@
 ﻿using Parqueadero.Core.Modelo;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Parqueadero.Core.ReglasNegocio
 {

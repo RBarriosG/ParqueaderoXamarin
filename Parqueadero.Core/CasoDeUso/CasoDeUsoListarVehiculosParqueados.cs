@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Parqueadero.Core.CasoDeUso
 {
-    class CasoDeUsoListarVehiculosParqueados
+    public class CasoDeUsoListarVehiculosParqueados
     {
         private RepositorioHistorial repositorioHistorial;
 

@@ -4,7 +4,7 @@ using static Parqueadero.Core.enumeraciones.TipoVehiculo;
 
 namespace Parqueadero.Core.Modelo
 {
-    class Vehiculo
+    public class Vehiculo
     {
         #region constantes
         private const string LaPlacaEsObligatoria = "La placa es obligatoria";

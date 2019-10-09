@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Parqueadero.Core.CasoDeUso
 {
-    class CasoDeUsoObtenerVehiculoParqueado
+    public class CasoDeUsoObtenerVehiculoParqueado
     {
         private const string VehiculoNoSeEncuentraEnParqueadero = "Vehiculo no se encuentra en parquedaro";
 

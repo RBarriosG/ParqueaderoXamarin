@@ -2,7 +2,7 @@
 
 namespace Parqueadero.Core.Modelo
 {
-    class Historial
+    public class Historial
     {
         #region atributos, get y set
         private Vehiculo vehiculo;

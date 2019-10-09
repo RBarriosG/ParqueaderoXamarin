@@ -4,10 +4,10 @@ using static Parqueadero.Core.enumeraciones.TipoVehiculo;
 
 namespace Parqueadero.Core.Repositorio
 {
-    interface RepositorioHistorial
+    public interface RepositorioHistorial
     {
         #region metodos de implementacion historial
-        List<Historial> LisarHistoriales();
+        List<Historial> ListarHistoriales();
 
         Historial IngresarVehiculo(Historial historial);
 

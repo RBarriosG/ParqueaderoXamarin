@@ -6,7 +6,7 @@ using System;
 
 namespace Parqueadero.Core.CasoDeUso
 {
-    class CasoDeUsoActualizarHistorial
+    public class CasoDeUsoActualizarHistorial
     {
         private const string VehiculoNoEstaEnParqueadero = "Vehiculo no esta en parqueadero";
 

@@ -1,6 +1,6 @@
 ﻿namespace Parqueadero.Core.enumeraciones
 {
-    class TipoVehiculo
+    public class TipoVehiculo
     {
         #region enumeracion de tipo vehiculo
         public enum Tipo

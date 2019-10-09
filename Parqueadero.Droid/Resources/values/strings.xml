@@ -1,4 +1,40 @@
 <resources>
-    <string name="app_name">Parqueadero.Droid</string>
-    <string name="action_settings">Settings</string>
+  <string name="app_name">Parqueadero.Droid</string>
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+  <string name="nav_header_title">Parqueadero ADN</string>
+  <string name="nav_header_subtitle">rodolfo.barrios@ceiba.com.co</string>
+  <string name="nav_header_desc">Navigation header</string>
+  <string name="action_settings">Settings</string>
+
+  <string name="menu_parqueados">Parqueados</string>
+  <string name="menu_historial">Historial de vehiculos</string>
+  <string name="descripcion_fab">Boton flotante para agregar vehiculos al parqueadero</string>
+  <string name="placa">PLACA:</string>
+  <string name="tipo">TIPO:</string>
+  <string name="cilindraje">CILINDRAJE:</string>
+  <string name="fecha_de_ingreso">FECHA DE INGRESO:</string>
+  <string name="fecha_de_salida">FECHA DE SALIDA:</string>
+  <string name="total">TOTAL:</string>
+  <string name="imagen_del_vehiculo_correspondiente">Imagen del vehiculo correspondiente</string>
+  <string name="salida">Salida</string>
+  <string name="placa_vehiculo">Placa vehiculo</string>
+  <string name="carro">CARRO</string>
+  <string name="moto">MOTO</string>
+  <string name="agregar_vehiculo">Agregar vehiculo</string>
+  <string name="ingrese_placa_a_buscar">Ingrese placa a buscar</string>
+  <string name="boton_de_busqueda_parqueados">boton de busqueda parqueados</string>
+  <string name="confirmar">CONFIRMAR</string>
+  <string name="cancelar">CANCELAR</string>
+  <string name="no_hay_vehiculos_parqueados">No hay vehiculos parqueados</string>
+  <string name="no_hay_datos_a_buscar">No hay datos a buscar</string>
+  <string name="dialogo_guardar">Dialogo Guardar</string>
+  <string name="atencion">ATENCION</string>
+  <string name="no_hay_historiales_de_vehiculos">No hay historial de vehiculos</string>
+  <string name="generar_la_salida_del_vehiculo">¿Generar la salida del vehicuo?</string>
+  <string name="hint_cilindraje">Cilindraje</string>
+  <string name="guardar">Guardar</string>
+  <string name="debe_ingresar_el_cilindraje">Debe ingresar el cilindraje</string>
+  <string name="error_placa">Placa vacia o menor a 5 caracteres o mayor a 6</string>
 </resources>
+

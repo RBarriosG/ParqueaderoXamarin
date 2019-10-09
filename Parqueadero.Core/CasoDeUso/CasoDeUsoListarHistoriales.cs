@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Parqueadero.Core.CasoDeUso
 {
-    class CasoDeUsoListarHistoriales
+    public class CasoDeUsoListarHistoriales
     {
         private RepositorioHistorial repositorioHistorial;
 
@@ -15,7 +15,7 @@ namespace Parqueadero.Core.CasoDeUso
 
         public List<Historial> Ejecutar()
         {
-            return repositorioHistorial.LisarHistoriales();
+            return repositorioHistorial.ListarHistoriales();
         }
     }
 }

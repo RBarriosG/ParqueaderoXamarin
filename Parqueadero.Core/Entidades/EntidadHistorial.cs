@@ -1,8 +1,5 @@
-﻿using Parqueadero.Core.Modelo;
-using Realms;
+﻿using Realms;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Parqueadero.Core.Entidades
 {
@@ -11,7 +8,7 @@ namespace Parqueadero.Core.Entidades
         [PrimaryKey]
         public long id { get; set; }
 
-        public Vehiculo Vehiculo { get; set; }
+        public EntidadVehiculo Vehiculo { get; set; }
         
         public DateTimeOffset FechaIngreso { get; set; }
 
